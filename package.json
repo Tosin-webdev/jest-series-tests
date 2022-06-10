@@ -1,0 +1,17 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
