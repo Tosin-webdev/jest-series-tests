@@ -21,6 +21,7 @@ const add = (a, b) => {
   });
 };
 
+// exports
 module.exports = {
   calculateSum,
   fahrenheitToCelsius,
